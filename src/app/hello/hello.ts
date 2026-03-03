@@ -15,7 +15,7 @@ export class HelloComponent {
 
   showMessage() {
     this.message = 'Button clicked successfully!';
-    console.log('Button clicked');
+    console.log('Button clicuuuuked');
   }
 
 }
